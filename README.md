@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my profile    
 
-My name is Raphael and i am current studying Sistems Development at Senai. I always have liked computers and programming is satisfactory for me, so I decided to take a step further and do a tecnical course about it.
+My name is Raphael and i am current studying Systems Development at Senai. I always have liked computers and programming is satisfactory for me, so I decided to take a step further and do a tecnical course about it.
 
 <br>
 
