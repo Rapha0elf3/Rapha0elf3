@@ -4,7 +4,7 @@ My name is Raphael and i am current studying Systems Development at Senai. I alw
 
 <br>
 
-Senai is giving me more than I could imagine. the teachers teach you not just about programming tecniques, but also the knowledge to become a professional. The way of thinking, the steps you have to take to to start a project, etc.
+Senai is giving me more than I could imagine. the teachers teach you not just about programming tecniques, but also the knowledge to become a professional. The way of thinking, the steps you have to take before you start a project, etc.
 
 <br>
 
